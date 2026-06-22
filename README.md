@@ -1,2 +1,2 @@
 # test-release-notes-repo
-Version 1: Initial setup 777
+Version 1: Initial setup :::
